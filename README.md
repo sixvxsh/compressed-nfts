@@ -1,4 +1,4 @@
-# State Compression and Compressed NFTs
+# State Compression and Compressed NFTs.
 
 At a high level, state compression is a technique in which a off-chain data is secured by the Solana
 ledger, using a hashing algorithm to "fingerprint" the _off-chain_ data and storing it inside a
